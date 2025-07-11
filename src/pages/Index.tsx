@@ -108,7 +108,7 @@ const Index = () => {
                 <h3 className="text-xl font-medium text-[#8B7355] mb-1">
                   Время
                 </h3>
-                <p className="text-[#8B7355]">Встреча гостей: 15:00</p>
+                <p className="text-[#8B7355]">Встреча гостей: 13:00</p>
                 <p className="text-[#8B7355]">Церемония: 16:00</p>
                 <p className="text-[#8B7355]">Банкет: 17:30</p>
               </div>
