@@ -137,7 +137,7 @@ const Index = () => {
               <h3 className="text-xl font-medium text-[#8B7355] mb-1">
                 Дресс-код
               </h3>
-              <p className="text-[#8B7355]">Элегантный стиль в теплых тонах</p>
+              <p className="text-[#8B7355]">Элегантный стиль</p>
             </div>
           </CardContent>
         </Card>
