@@ -81,7 +81,7 @@ const Index = () => {
             <div className="flex items-center justify-center gap-3">
               <Icon name="MapPin" className="text-[#D4AF37]" size={20} />
               <span className="text-lg text-[#8B7355]">
-                Загородный клуб "Усадьба"
+                Загородный клуб "Ёлки"
               </span>
             </div>
           </div>
