@@ -75,7 +75,7 @@ const Index = () => {
             <div className="flex items-center justify-center gap-3 mb-2">
               <Icon name="Calendar" className="text-[#D4AF37]" size={20} />
               <span className="text-xl font-medium text-[#8B7355]">
-                15 сентября 2024
+                27 сентября 2025 года
               </span>
             </div>
             <div className="flex items-center justify-center gap-3">
