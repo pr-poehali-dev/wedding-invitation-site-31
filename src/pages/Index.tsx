@@ -62,7 +62,7 @@ const Index = () => {
             />
           </div>
           <h1 className="text-6xl font-serif text-[#D4AF37] mb-4 tracking-wide">
-            Анна & Михаил
+            Евгений & Ксения
           </h1>
           <div className="flex items-center justify-center gap-4 mb-6">
             <Icon name="Heart" className="text-[#D4AF37]" size={24} />
