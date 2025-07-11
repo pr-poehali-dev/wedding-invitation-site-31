@@ -109,7 +109,7 @@ const Index = () => {
                   Время
                 </h3>
                 <p className="text-[#8B7355]">Встреча гостей: 13:00</p>
-                <p className="text-[#8B7355]">Церемония: 114:30</p>
+                <p className="text-[#8B7355]">Церемония: 14:30</p>
                 <p className="text-[#8B7355]">Банкет: 17:30</p>
               </div>
               <div className="text-center p-4 bg-gradient-to-br from-[#F8F6F0] to-white rounded-lg border border-[#D4AF37]/10">
